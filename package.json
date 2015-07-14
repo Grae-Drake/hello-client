@@ -12,5 +12,8 @@
     "Thinkful"
   ],
   "author": "Grae Drake",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "unirest": "^0.4.2"
+  }
 }
